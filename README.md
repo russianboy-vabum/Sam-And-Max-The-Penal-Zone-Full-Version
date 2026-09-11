@@ -246,3 +246,6 @@ This repository serves as the official landing page for Sam & Max: The Penal Zon
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: The Penal Zone today!**
+
+---
+**Last updated:** 2026-09-11 22:57:36 UTC
