@@ -248,4 +248,4 @@ This repository serves as the official landing page for Sam & Max: The Penal Zon
 **Get the most recent version of Sam & Max: The Penal Zone today!**
 
 ---
-**Last updated:** 2026-09-13 13:38:39 UTC
+**Last updated:** 2026-09-13 17:14:16 UTC
